@@ -4,7 +4,7 @@ const navbarCollapse = () => {
         <header>
             <nav className="navbar navbar-expand-md">
                 <div className="container">
-                    <a className="navbar-brand" href="/">QuizMaster</a>
+                    <a className="navbar-brand" href="/quiz-master/">QuizMaster</a>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
                         aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
@@ -12,7 +12,7 @@ const navbarCollapse = () => {
                     <div className="collapse navbar-collapse" id="navbarCollapse">
                         <ul className="navbar-nav ml-auto">
                             <li className="nav-item active">
-                                <a className="nav-link" href="/">github</a>
+                                <a className="nav-link" href="https://github.com/biswajit-saha/quiz-master">github</a>
                             </li>
                         </ul>
                     </div>
