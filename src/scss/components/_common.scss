@@ -1,0 +1,37 @@
+body {
+    font-family: $sans-serif;
+    background-color: $color-bg;
+    color: $color-dark;
+    position: relative;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+}
+.app {
+    min-height: 100vh;
+    padding-bottom: 54px;
+}
+.btn {
+    text-transform: uppercase;
+    border-radius: 0;
+    font-weight: 700;
+    padding: 0.875rem 1.5rem;
+    font-size: 1.125rem;
+    letter-spacing: 1px;
+}
+.btn-primary {
+    background-color: $color-primary;
+    border-color: $color-primary;
+    &:hover, &:focus, &:not(:disabled):not(.disabled):active {
+    background-color: darken($color-primary, 5);
+    border-color: darken($color-primary, 5);
+    }
+}
+.btn-secondary {
+    background-color: $color-secondary;
+    border-color: $color-secondary;
+    &:hover, &:focus, &:not(:disabled):not(.disabled):active {
+    background-color: darken($color-secondary, 5);
+    border-color: darken($color-secondary, 5);
+    }
+}

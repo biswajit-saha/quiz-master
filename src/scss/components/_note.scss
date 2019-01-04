@@ -1,0 +1,26 @@
+.note-wrap {
+    margin-top: 50px;
+    background: #fff;
+    margin-bottom: 50px;
+    .section-heading {
+        padding: 28px 20px;
+        font-size: 2.5rem;
+        background: $color-dark;
+        color: #fff;
+    }
+    .section-body {
+        font-size: 1.5rem;
+        padding: 30px 40px;
+        .result-count {
+            font-size: 1.5rem;
+            .highltght {
+                color: $color-secondary !important;
+                font-size: 2rem;
+                vertical-align: middle;
+            }
+        }
+    }
+    .section-footer {
+        padding: 0px 40px 40px;
+    }
+}

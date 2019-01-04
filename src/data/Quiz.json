@@ -1,0 +1,64 @@
+{
+    "question_set": [
+        {
+            "question": "What is the Full form of HDD?",
+            "options": ["Hard Data Drive", "Hard Disk Drive", "Hard Disk Data", "Hot Disk Drive"],
+            "answer_number": 2
+        },
+        {
+            "question": "Is the following statement true or false? - \"The data in the RAM gets erased after computer shut down .\"",
+            "options": ["True", "False"],
+            "answer_number": 1
+        },
+        {
+            "question": "What is the full form of LAN?",
+            "options": ["Large Area Node", "Local Area Node", "Local Area Network", "Large Area Network"],
+            "answer_number": 3
+        },
+        {
+            "question": "Web pages are written using ____.",
+            "options": ["FTP", "HTTP", "HTML", "URL"],
+            "answer_number": 3
+        },
+        {
+            "question": "Which is not an Operating System?",
+            "options": ["Windows", "Google", "Linux", "Unix"],
+            "answer_number": 2
+        },
+        {
+            "question": "What does \"WWW\" stands for?",
+            "options": ["World Worm Web", "Wide World Web", "Wide Web World", "World Wide Web"],
+            "answer_number": 4
+        },
+        {
+            "question": "What Does GUI stands for, in computer terms?",
+            "options": ["Graphical User Interface", "Graphic User Interface", "Geographic User Internet", "None Of these"],
+            "answer_number": 1
+        },
+        {
+            "question": "Which is a web browser?",
+            "options": ["Chrome", "Firefox", "Opera", "All of these"],
+            "answer_number": 4
+        },
+        {
+            "question": "Is the following statement true or false? - \"DOS is a GUI based operating system.\"?",
+            "options": ["true", "false"],
+            "answer_number": 2
+        },
+        {
+            "question": "What does HTML stands for?",
+            "options": ["Hypertext Transfer Protocol", "Hypertext Transaction Protocol", "Hypertext Transfer Port", "Hypertext Transaction Port"],
+            "answer_number": 1
+        },
+        {
+            "question": "What is the full form of lP?",
+            "options": ["Internet Protocol", "Interface Protocol", " Interface program", "Internet program"],
+            "answer_number": 1
+        },
+        {
+            "question": "Find the odd one out?",
+            "options": ["Mouse", "Keyboard", "Printer", "Touch screen"],
+            "answer_number": 3
+        }
+    ]
+}
